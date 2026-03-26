@@ -1,0 +1,37 @@
+<svg width="1280" height="760" viewBox="0 0 1280 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="760" rx="28" fill="#F7F0E6"/>
+  <rect width="1280" height="760" fill="url(#glow)" fill-opacity="0.65"/>
+  <text x="640" y="112" text-anchor="middle" fill="#A94712" font-family="Arial, sans-serif" font-size="42" font-weight="700">Awesome Todos</text>
+  <rect x="338" y="146" width="550" height="44" rx="14" fill="#FFFDFB" stroke="#FF944D" stroke-width="2"/>
+  <text x="356" y="174" fill="#F45D00" font-family="Arial, sans-serif" font-size="18">Enter a new todo...</text>
+  <rect x="900" y="146" width="72" height="44" rx="14" fill="#FF6A00"/>
+  <text x="936" y="174" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="18" font-weight="700">Add</text>
+
+  <rect x="338" y="212" width="634" height="58" rx="16" fill="#FFFDFB" stroke="#FFC18C"/>
+  <text x="358" y="248" fill="#8B3A17" font-family="Arial, sans-serif" font-size="18">This is my first to do's</text>
+  <rect x="884" y="226" width="32" height="32" rx="10" fill="#FFF8F1" stroke="#FFB16A"/>
+  <rect x="924" y="226" width="32" height="32" rx="10" fill="#FFF8F1" stroke="#FFB16A"/>
+  <text x="900" y="248" text-anchor="middle" fill="#4C2D1F" font-family="Arial, sans-serif" font-size="16">□</text>
+  <text x="940" y="248" text-anchor="middle" fill="#FF7C62" font-family="Arial, sans-serif" font-size="16">🗑</text>
+
+  <rect x="338" y="286" width="634" height="58" rx="16" fill="#FFFDFB" stroke="#FFC18C"/>
+  <text x="358" y="322" fill="#8B3A17" font-family="Arial, sans-serif" font-size="18">This my second to do</text>
+  <rect x="884" y="300" width="32" height="32" rx="10" fill="#FFF8F1" stroke="#FFB16A"/>
+  <rect x="924" y="300" width="32" height="32" rx="10" fill="#FFF8F1" stroke="#FFB16A"/>
+  <text x="900" y="322" text-anchor="middle" fill="#4C2D1F" font-family="Arial, sans-serif" font-size="16">□</text>
+  <text x="940" y="322" text-anchor="middle" fill="#FF7C62" font-family="Arial, sans-serif" font-size="16">🗑</text>
+
+  <rect x="338" y="360" width="634" height="58" rx="16" fill="#FFFDFB" stroke="#FFC18C"/>
+  <text x="358" y="396" fill="#8B3A17" font-family="Arial, sans-serif" font-size="18">This is my third to do</text>
+  <rect x="884" y="374" width="32" height="32" rx="10" fill="#FFF8F1" stroke="#FFB16A"/>
+  <rect x="924" y="374" width="32" height="32" rx="10" fill="#FFF8F1" stroke="#FFB16A"/>
+  <text x="900" y="396" text-anchor="middle" fill="#4C2D1F" font-family="Arial, sans-serif" font-size="16">□</text>
+  <text x="940" y="396" text-anchor="middle" fill="#FF7C62" font-family="Arial, sans-serif" font-size="16">🗑</text>
+
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(640 145) rotate(90) scale(420 780)">
+      <stop stop-color="#FFD29A" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#F7F0E6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
